@@ -31,7 +31,7 @@ mkdir build
 cd build
 cmake ..
 make
-./build/bin/runner
+./bin/runner
 ```
 
 ### Inspiration
